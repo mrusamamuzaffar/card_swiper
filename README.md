@@ -1,16 +1,19 @@
-# card_swiper
+# card_swiper - Flutter
 
 Card Swiper UI
+A wonderfull, awesome, beautifil card Swiper UI in Flutter.
 
-## Getting Started
+✔️ Sound NullSafety
 
-This project is a starting point for a Flutter application.
+## Architechture
+✔️ Clean Architechture <br />
 
-A few resources to get you started if this is your first Flutter project:
+## GIF
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img 
+    width=40%
+    height=40%
+    src="https://user-images.githubusercontent.com/101565812/205605245-c2388ae3-588a-4651-8d75-d57b029c6af5.gif">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
